@@ -1,0 +1,14 @@
+    Customer Type of Customer  Items  Net Sales Method of Payment  Gender Marital Status  Age
+0          1          Regular      1      39.50          Discover    Male        Married   32
+1          2      Promotional      1     102.40  Proprietary Card  Female        Married   36
+2          3          Regular      1      22.50  Proprietary Card  Female        Married   32
+3          4      Promotional      5     100.40  Proprietary Card  Female        Married   28
+4          5          Regular      2      54.00        MasterCard  Female        Married   34
+..       ...              ...    ...        ...               ...     ...            ...  ...
+95        96          Regular      1      39.50        MasterCard  Female        Married   44
+96        97      Promotional      9     253.00  Proprietary Card  Female        Married   30
+97        98      Promotional     10     287.59  Proprietary Card  Female        Married   52
+98        99      Promotional      2      47.60  Proprietary Card  Female        Married   30
+99       100      Promotional      1      28.44  Proprietary Card  Female        Married   44
+
+[100 rows x 8 columns]
